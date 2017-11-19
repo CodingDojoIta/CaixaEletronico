@@ -1,3 +1,4 @@
+# authors = 'Thallison', 'Diorgeles', 'Abimael', 'Lucas'
 saque = 251
 cedulas_disp = [50, 20, 10, 100]
 result = 0
