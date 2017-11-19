@@ -1,4 +1,4 @@
-# CaixaEletronico
+# Caixa Eletrônico
 
 Este problema foi utilizado em 641 Dojo(s).
 
